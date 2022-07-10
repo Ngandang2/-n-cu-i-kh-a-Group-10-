@@ -1,4 +1,4 @@
-# Do-an-Web2-2021 - RẠP CHIẾU PHIM 
+# Do-an-cuoi-khoa-group-10 
 
 Cenima Booking Movie
 Online movie ticket booking site.
