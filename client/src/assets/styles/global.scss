@@ -1,0 +1,64 @@
+$colorLayout: #121825;
+$colorGreen: #27df2d;
+$colorWhite: #fff;
+$colorText: #a6b2c9;
+$colorTitle: #d4dd29;
+$colorBgForm: #1c262f;
+$colorLoading: #00ff0a;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+//  font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300&display=swap');
+//  font-family: 'Encode Sans SC', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+//  font-family: 'Girassol', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+//  font-family: 'Poppins', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&display=swap');
+// font-family: 'Bahianita', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@200;300&display=swap');
+// font-family: 'Noto Sans Mono', monospace;
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+// font-family: 'Pattaya', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+// font-family: 'Pacifico', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@500');
+// font-family: 'Baloo Tammudu 2', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+// font-family: 'Dancing Script', cursive;
+
+
+// Loading Skeleton
+
+// .skeleton-box { 
+//     display: inline-block;
+//     height: 1em;
+//     position: relative;
+//     overflow: hidden;
+//     background-color: $colorLayout;
+//     border-radius: 18px;
+
+//     &::after {
+//         position: absolute;
+//         top: 0;
+//         right: 0;
+//         bottom: 0;
+//         left: 0;
+//         transform: translateX(-100%);
+//         background-image: linear-gradient(
+//           90deg,
+//           rgba($colorText, 0) 0,
+//           rgba($colorText, 0.2) 40%,
+//           rgba($colorText, 0.5) 70%,
+//           rgba($colorText, 0)
+//         );
+//         animation: shimmer 2s infinite;
+//         content: '';
+//       }
+    
+//       @keyframes shimmer {
+//         100% {
+//           transform: translateX(100%);
+//         }
+//       }
+// }
